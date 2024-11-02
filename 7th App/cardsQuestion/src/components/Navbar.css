@@ -1,0 +1,10 @@
+nav{
+    background-color: lavender;
+    padding: 10px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+}
