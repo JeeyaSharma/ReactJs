@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: rgb(228, 113, 7);
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+    /* font-size: 1.4rem; */
+    padding: 10px;
+}
+#nav-items{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+    gap: 100px;
+}
